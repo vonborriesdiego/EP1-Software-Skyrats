@@ -5,7 +5,7 @@ First EP as a skyrats software fellow. Create a README explaining the first work
 ## Linux
 * Often referred as an operating system, but strictly speaking, it is a Kernel. <br> 
 *Kernel:* Core component of an operating system and serves as the main interface between computer's hardware and the process running on it. <br>
-* Low level (C and Assembly) <br>
+* Low level (C and Assembly). <br>
 * In the 80s, thanks to Richard Stallman GNU project could accomplish his goal of making an operating systen that was freely to everyone, and where everyone could work together. <br>
 * In the 90s, to be more specific 1991, Linus Torvalds, a Swedish student put his source code online; a brand new POSIX compilant kernel; online. Many people embraced the combination of this kernel with the GNU tools.
 ### Distributions 
@@ -17,4 +17,23 @@ First EP as a skyrats software fellow. Create a README explaining the first work
 * Basis of every Ubuntu release. 
 * Seen as one of the most stable Linux distributions.
 * Stable root distribution.
+* *Ubuntu:* Versions long term support.
+* *Linux Mint:* Performance set for casual uses.
+* *Linux Lite:* Simple and easy to use.
 * Fun fact: Every Debian release is named after a character in the movie Toy Story.
+<img width="676" alt="historydebian" src="https://github.com/vonborriesdiego/EP1-Software-Skyrats/assets/77511058/1b34dca0-5161-484d-9c64-62564f545ed2">
+
+### Arch
+* Highly customizable.
+* *Manjaro:* Privacy and highly control.
+
+### Gentoo
+* Accuracy and optimization on compilation task.
+
+### Fedora
+* Usability and freedom.
+
+### Which one to use?
+* Depends on the needs of the user. 
+<img width="768" alt="Screen Shot 2023-05-10 at 9 18 29 AM" src="https://github.com/vonborriesdiego/EP1-Software-Skyrats/assets/77511058/307c4ab0-33e8-41df-af04-8f5fa1b41e47"> <br> 
+*Note.* Table took from *Linux Fundamentals by Paul Cobbaut.*
