@@ -43,4 +43,20 @@ First EP as a skyrats software fellow. Create a README explaining the first work
 * The FHS may help make more Unix/Linux file system trees conform better in the future.
 * To make it simpler, a FHS is how drives, folders, files, and other storage devices are organized and displayed on an operating system.
 * In a hierarchical file system, the drives, folders, and files are displayed in groups, which allows the user to see only the files they're interested in seeing.
-* People should be aware 
+* People should be aware of allowing to modificate some protected directories.
+* In Linux, everything is a file.
+
+### Access permissions 
+* Read *-r*
+* Modify *-w*
+* Execute *-x*
+
+### *Sudo* Command 
+* Accessing directories, functions and protected files.
+
+### User directory
+* **/home**
+
+### Protected Directories
+* **/root** and **/sys**
+* **/bin** and **/sbin**
