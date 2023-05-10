@@ -37,3 +37,10 @@ First EP as a skyrats software fellow. Create a README explaining the first work
 * Depends on the needs of the user. 
 <img width="768" alt="Screen Shot 2023-05-10 at 9 18 29 AM" src="https://github.com/vonborriesdiego/EP1-Software-Skyrats/assets/77511058/307c4ab0-33e8-41df-af04-8f5fa1b41e47"> <br> 
 *Note.* Table took from *Linux Fundamentals by Paul Cobbaut.*
+
+### Files System
+* Linux inherited the Filesystem Hierarchy (FHS) Standard from UNIX.
+* The FHS may help make more Unix/Linux file system trees conform better in the future.
+* To make it simpler, a FHS is how drives, folders, files, and other storage devices are organized and displayed on an operating system.
+* In a hierarchical file system, the drives, folders, and files are displayed in groups, which allows the user to see only the files they're interested in seeing.
+* People should be aware 
