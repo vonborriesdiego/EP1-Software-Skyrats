@@ -132,3 +132,5 @@ First EP as a skyrats software fellow. Create a README explaining the first work
 ### README FILE
 * Informative file that shows up after accessing a repo.
 * Got useful information about the project (goals, installation, perform guide).
+
+![download](https://github.com/vonborriesdiego/EP1-Software-Skyrats/assets/77511058/1e6c8e69-89fa-429b-b4b9-35a18036de2c)
