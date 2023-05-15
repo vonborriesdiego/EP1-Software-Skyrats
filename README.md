@@ -121,3 +121,14 @@ First EP as a skyrats software fellow. Create a README explaining the first work
 
 ![download](https://github.com/vonborriesdiego/EP1-Software-Skyrats/assets/77511058/1b9ae90e-a491-46fb-aec3-6261d6d44225)
 
+### COMMITS
+* We use commit when we want to perform logic changes.
+* Change and perform successful tests.
+* Clone and test.
+* Messages are usually in english.
+* Present tense verb or imperative.
+* Use Gitmoji to indicate an action.
+
+### README FILE
+* Informative file that shows up after accessing a repo.
+* Got useful information about the project (goals, installation, perform guide).
