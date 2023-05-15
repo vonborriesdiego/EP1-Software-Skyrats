@@ -76,3 +76,20 @@ First EP as a skyrats software fellow. Create a README explaining the first work
 * *rm -r/path* - Remove a directory with all the files.
 * *sudo apt update* - Update a  package.
 * *sudo apt install [package]* - Install packages.
+
+### Git 
+* Distribuited Version Control System.
+* *Code versioning* - Records all changes and allows redirect all versions.
+* *Allows working in group* - Clone the project, add changes, mix changes.
+
+### Git Fundamentals
+* **Repository:** Directory with all files and changes.
+* **Branch:** Independent copy of the main repository.
+* **Merge:** Mix changes from different branches.
+* **Fork:** Copy of a repository directly tied to the usser personal account. so the user can work on a copy of an original project.
+* Keeps a local copy of the project with all the files and changes.
+* *Commit* - command used to keep the changes.
+* It is possible the use of branches to meake changes without affecting the main code.
+* Once the changes are commited, the user can update the changes on a remote repository, so the members can have access.
+* Members can pull and copy the changes to their local repositories.
+* Members can also merge their alterations with yours.
