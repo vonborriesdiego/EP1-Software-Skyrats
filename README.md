@@ -2,6 +2,10 @@
 First EP as a skyrats software fellow. Create a README explaining the first workshop.
 
 ## LINUX, GIT e GITHUB
+
+![download](https://github.com/vonborriesdiego/EP1-Software-Skyrats/assets/77511058/91603cb2-e05f-4b08-ba71-ca737d1dcf14)
+
+
 ## Linux
 * Often referred as an operating system, but strictly speaking, it is a Kernel. <br> 
 *Kernel:* Core component of an operating system and serves as the main interface between computer's hardware and the process running on it. <br>
