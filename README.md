@@ -98,4 +98,23 @@ First EP as a skyrats software fellow. Create a README explaining the first work
 
 
 ### GITHUB
-* Online platform
+* Online platform based on Git.
+* Project storage.
+
+### Commands
+* **git init:** Initialize a new empty Git repo.
+* **git clone:** Clone a remote Git repo.
+* **git add:** Add files to be tracking by Git.
+* **git commit:** Save all changes in one or more files on a remote repo.
+* **git push:** Sends changes from a local repo to a remote repo.
+* **git pull:** Pull changhes from a remote repo to a local repo.
+* **git branch:** Create, list or exclude branches.
+* **git merge:** Combine changes from two or more Git branches.
+* **git status:** Show the actual local repository status.
+
+### GITIGNORE
+* Specifies intentionally untracked files that Git should ignore.
+* We must create a file named ".gitignore" on the root of the project.
+* List all the files and folders to be ignored.
+* Ignores sensitive files (passwords, user personal info).
+* Ignores unnecessary files (images, proves).
