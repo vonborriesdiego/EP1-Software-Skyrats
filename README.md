@@ -60,3 +60,19 @@ First EP as a skyrats software fellow. Create a README explaining the first work
 ### Protected Directories
 * **/root** and **/sys**
 * **/bin** and **/sbin**
+* **/boot** and **/run**
+* **/usr /media /mnt**
+* **/lib /lib32**
+* **/lib64**
+
+### Terminal Command 
+* Full system control.
+* Command format: **[function]** **[flag]** **[argument]**
+* **-h** **mkdir -help**
+* *ls* - Visualize directory files.
+* *cd/path* - Access to a directory.
+* *mkdir [name]* - Create a new directory.
+* *touch /path* - Create a file.
+* *rm -r/path* - Remove a directory with all the files.
+* *sudo apt update* - Update a  package.
+* *sudo apt install [package]* - Install packages.
