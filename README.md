@@ -133,8 +133,10 @@ First EP as a skyrats software fellow. Create a README explaining the first work
 * Present tense verb or imperative.
 * Use Gitmoji to indicate an action.
 
+![download](https://github.com/vonborriesdiego/EP1-Software-Skyrats/assets/77511058/1e6c8e69-89fa-429b-b4b9-35a18036de2c)
+
 ### README 
 * Informative file that shows up after accessing a repo.
 * Got useful information about the project (goals, installation, perform guide).
 
-![download](https://github.com/vonborriesdiego/EP1-Software-Skyrats/assets/77511058/1e6c8e69-89fa-429b-b4b9-35a18036de2c)
+![download](https://github.com/vonborriesdiego/EP1-Software-Skyrats/assets/77511058/57d94b51-30c4-4be8-b0c5-a43e0dcde373)
