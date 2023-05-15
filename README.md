@@ -118,3 +118,6 @@ First EP as a skyrats software fellow. Create a README explaining the first work
 * List all the files and folders to be ignored.
 * Ignores sensitive files (passwords, user personal info).
 * Ignores unnecessary files (images, proves).
+
+![download](https://github.com/vonborriesdiego/EP1-Software-Skyrats/assets/77511058/1b9ae90e-a491-46fb-aec3-6261d6d44225)
+
