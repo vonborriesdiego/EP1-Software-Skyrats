@@ -93,3 +93,9 @@ First EP as a skyrats software fellow. Create a README explaining the first work
 * Once the changes are commited, the user can update the changes on a remote repository, so the members can have access.
 * Members can pull and copy the changes to their local repositories.
 * Members can also merge their alterations with yours.
+
+![download](https://github.com/vonborriesdiego/EP1-Software-Skyrats/assets/77511058/ad0cc1a2-3d4d-40cc-bd88-58aa1f0fb518)
+
+
+### GITHUB
+* Online platform
